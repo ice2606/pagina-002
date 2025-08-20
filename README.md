@@ -63,7 +63,14 @@
         <h1>BIENVENIDOS </h1>
        <h1>  </h1>
         <h1> calzado narvaez castro </h1>
-    <a href="https://ice2606.github.io/pagina-01/"class="boton-personalizado">atras</a>
+        
+          </style>
+</head>
+<body>
+    <header>
+        <h1>BIENVENIDOS </h1>
+        <h1> calzado narvaez castro </h1>
+    <a href="https://github.com/ice2606/pagina-01/edit/main/README.md" class="boton-personalizado">Ir a Google</a>
 
 <style>
   .boton-personalizado {
@@ -80,4 +87,15 @@
   }
 </style>
 
+<style>
+  .contenedor-texto {
+    background-color: #f0f8ff; /* Color de fondo azul muy claro */
+    padding: 20px;
+    margin: 50px auto; /* Centra el bloque horizontalmente */
+    width: 60%; /* Ajusta el ancho del contenedor */
+    border-radius: 10px; /* Esquinas redondeadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    text-align: center; /* Centra el texto dentro del contenedor */
+  }
+</style>
 
