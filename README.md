@@ -125,3 +125,65 @@
 </html>
 
 
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .boton-verde {
+    display: inline-block; /* Permite que los botones estén en la misma línea */
+    margin: 10px;
+    text-decoration: none; /* Elimina el subrayado del hipervínculo */
+  }
+
+  .boton-verde button {
+    background-color: #4CAF50; /* Color de fondo verde */
+    color: white; /* Color del texto */
+    padding: 15px 32px;
+    border: none;
+    border-radius: 8px; /* Bordes redondeados */
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Transición suave para el efecto hover */
+  }
+
+  .boton-verde button:hover {
+    background-color: #45a049; /* Color verde más oscuro al pasar el ratón */
+  }
+</style>
+</head>
+<body>
+
+  <a href="https://www.google.com" class="boton-verde">
+    <button>Ir a Google</button>
+  </a>
+
+  <a href="https://www.facebook.com" class="boton-verde">
+    <button>Ir a Facebook</button>
+  </a>
+
+  <a href="https://www.youtube.com" class="boton-verde">
+    <button>Ir a YouTube</button>
+  </a>
+
+  <a href="https://www.wikipedia.org" class="boton-verde">
+    <button>Ir a Wikipedia</button>
+  </a>
+
+  <a href="https://github.com" class="boton-verde">
+    <button>Ir a GitHub</button>
+  </a>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
