@@ -160,7 +160,7 @@
     <button>sandalias </button>
   </a>
 
-  <a href="https://www.facebook.com" class="boton-verde">
+  <a href="https://ice2606.github.io/pag_004/" class="boton-verde">
     <button>zapatos unisex</button>
   </a>
 
