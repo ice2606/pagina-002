@@ -102,7 +102,7 @@
 <head>
 <style>
   body {
-    background-image: url('tenis .jpg'); /* Reemplaza con la ruta de tu imagen */
+    background-image: url('tenis.jpg'); /* Reemplaza con la ruta de tu imagen */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
