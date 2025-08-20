@@ -164,11 +164,11 @@
     <button>zapatos unisex</button>
   </a>
 
-  <a href="https://www.youtube.com" class="boton-verde">
+  <a href="https://ice2606.github.io/Pag_005/" class="boton-verde">
     <button>chinelas</button>
   </a>
 
-  <a href="https://www.wikipedia.org" class="boton-verde">
+  <a href="https://ice2606.github.io/Pag_006/" class="boton-verde">
     <button>calzado de niños</button>
   </a>
 
