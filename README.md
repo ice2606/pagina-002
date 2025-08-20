@@ -61,8 +61,9 @@
 
     <header>
         <h1>BIENVENIDOS </h1>
+       <h1>  </h1>
         <h1> calzado narvaez castro </h1>
-    <a href="https://www.google.com" class="boton-personalizado">Ir a Google</a>
+    <a href="https://www.google.com" class="boton-personalizado">ingresar a catalogos </a>
 
 <style>
   .boton-personalizado {
@@ -79,15 +80,4 @@
   }
 </style>
 
-<style>
-  .contenedor-texto {
-    background-color: #f0f8ff; /* Color de fondo azul muy claro */
-    padding: 20px;
-    margin: 50px auto; /* Centra el bloque horizontalmente */
-    width: 60%; /* Ajusta el ancho del contenedor */
-    border-radius: 10px; /* Esquinas redondeadas */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
-    text-align: center; /* Centra el texto dentro del contenedor */
-  }
-</style>
 
