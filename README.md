@@ -58,13 +58,6 @@
     </style>
 </head>
 <body>
-
-    <header>
-        <h1>BIENVENIDOS </h1>
-       <h1>  </h1>
-        <h1> calzado narvaez castro </h1>
-        
-          </style>
 </head>
 <body>
     <header> 
