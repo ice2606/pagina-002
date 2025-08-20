@@ -67,9 +67,7 @@
           </style>
 </head>
 <body>
-    <header>
-        <h1>BIENVENIDOS </h1>
-        <h1> calzado narvaez castro </h1>
+    <header> 
     <a href="https://ice2606.github.io/pagina-01/" class="boton-personalizado">pagina principal</a>
 
 <style>
