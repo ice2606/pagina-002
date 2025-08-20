@@ -63,7 +63,8 @@
         <h1>BIENVENIDOS </h1>
        <h1>  </h1>
         <h1> calzado narvaez castro </h1>
-    <a href="https://www.google.com" class="boton-personalizado">ingresar a catalogos </a>
+    <a href="https://www.google.com" class="boton-personalizado">atras
+</a>
 
 <style>
   .boton-personalizado {
