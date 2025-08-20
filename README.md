@@ -58,7 +58,7 @@
     </style>
 </head>
 <body>
-</head>
+
 <body>
     <header> 
     <a href="https://ice2606.github.io/pagina-01/" class="boton-personalizado">pagina principal</a>
