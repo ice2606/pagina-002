@@ -118,8 +118,8 @@
 </head>
 <body>
 
-  <h1>Título de mi página</h1>
-  <p>Este es un texto que se ve sobre la imagen de fondo.</p>
+  <h1>BIENVENIDO</h1>
+  <p> te presentamos nuestro catalogo </p>
 
 </body>
 </html>
@@ -128,7 +128,7 @@
 
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -157,23 +157,19 @@
 <body>
 
   <a href="https://www.google.com" class="boton-verde">
-    <button>Ir a Google</button>
+    <button>sandalias </button>
   </a>
 
   <a href="https://www.facebook.com" class="boton-verde">
-    <button>Ir a Facebook</button>
+    <button>zapatos unisex</button>
   </a>
 
   <a href="https://www.youtube.com" class="boton-verde">
-    <button>Ir a YouTube</button>
+    <button>chinelas</button>
   </a>
 
   <a href="https://www.wikipedia.org" class="boton-verde">
-    <button>Ir a Wikipedia</button>
-  </a>
-
-  <a href="https://github.com" class="boton-verde">
-    <button>Ir a GitHub</button>
+    <button>calzado de niños</button>
   </a>
 
 </body>
