@@ -156,7 +156,7 @@
 </head>
 <body>
 
-  <a href="https://www.google.com" class="boton-verde">
+  <a href="https://ice2606.github.io/pag_003/" class="boton-verde">
     <button>sandalias </button>
   </a>
 
